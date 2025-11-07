@@ -1,0 +1,7 @@
+text,label
+Patient prescribed Metformin 500mg twice daily for diabetes management,prescription
+Chest X-ray reveals no acute cardiopulmonary process,report
+"Discharge Summary: Patient stable, continue current medications",summary
+Take Lisinopril 10mg once daily with water,prescription
+MRI shows no evidence of acute infarct or hemorrhage,report
+"Patient recovered well after treatment, follow-up in 2 weeks",summary

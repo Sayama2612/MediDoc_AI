@@ -1,0 +1,1 @@
+# Run this in PowerShell to create venv and install deps\npython -m venv .venv; .\.venv\Scripts\Activate.ps1; pip install -r requirements.txt\n# Download a small spaCy model example\npython -m spacy download en_core_web_sm\n

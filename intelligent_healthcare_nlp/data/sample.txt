@@ -1,0 +1,12 @@
+Patient Name: John Doe
+Age: 54
+Gender: Male
+Date: 2025-11-07
+
+Diagnosis: Hypertension, Type 2 Diabetes Mellitus
+
+Medications:
+- Metformin 500 mg, 1 tablet twice daily
+- Lisinopril 20 mg, 1 tablet once daily
+- Aspirin 75 mg, 1 tablet once daily
+Instructions: Follow up in 2 weeks.

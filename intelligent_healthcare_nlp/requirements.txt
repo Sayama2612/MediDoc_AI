@@ -1,0 +1,16 @@
+flask
+requests
+pillow
+pytesseract
+easyocr
+spacy
+transformers
+torch
+scikit-learn
+pandas
+numpy
+python-multipart
+python-magic
+pymongo
+elasticsearch
+sentence-transformers

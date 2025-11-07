@@ -1,0 +1,13 @@
+text,label
+"Patient: John Doe\nAge: 54\nDiagnosis: Hypertension and Type 2 Diabetes. Prescribed Metformin 500 mg twice daily and Lisinopril 20 mg once daily.",prescription
+"Chest X-ray shows mild cardiomegaly. Recommend follow-up with cardiology. No acute consolidation.",report
+"Discharge Summary: Patient admitted for chest pain. Troponins negative. Discharged home with outpatient follow up.",summary
+"Rx: Amoxicillin 500mg, take one capsule three times daily for 7 days. Return if rash or worsening symptoms.",prescription
+"MRI brain: small chronic microvascular ischemic changes in periventricular white matter. No acute infarct.",report
+"Summary: Patient improved after 3 days of IV fluids and antibiotics. Stable at discharge with oral meds.",summary
+"Prescription: Insulin glargine 10 units at bedtime. Monitor blood glucose and adjust per endocrinology.",prescription
+"Lab report: Hemoglobin 12.1 g/dL, WBC 8.3 x10^9/L, platelets 220 x10^9/L. CMP within normal limits.",report
+"Brief summary: Symptoms resolved after conservative therapy; advised rest and follow-up in 1 week.",summary
+"Medication: Prednisone 40 mg PO daily for 5 days for acute exacerbation of COPD.",prescription
+"Radiology: Abdominal ultrasound demonstrates cholelithiasis without choledocholithiasis.",report
+"Progress summary: Pain improved, tolerating diet, ambulating without assistance; plan discharge tomorrow.",summary
